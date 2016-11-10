@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://114.80.211.43/resource/mahjonglz.ipa</string>
+            <string>http://211.101.15.65/resource/mahjonglz.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://114.80.211.43/resource/512.png</string>
+            <string>http://211.101.15.65/resource/512.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://114.80.211.43/resource/57.png</string>
+            <string>http://211.101.15.65/resource/57.png</string>
           </dict>
         </array>
         <key>metadata</key>
